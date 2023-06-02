@@ -1,0 +1,98 @@
+.parent{
+    display: flex;
+    width: 1800px;
+    height: 300px;
+    border: solid black 1px;
+}
+
+.octave{
+    display: flex;
+    width: 350px;
+    height: 300px;
+    
+    
+}
+
+.two-button{
+   
+    width: 150px;
+    height: 300px;
+    
+}
+
+.threewhite{
+    width: 50px;
+    height: 150px;
+    border: solid black 0.7px;
+    border-top: solid white 1px;
+}
+
+
+
+.twoblack{
+    background-color: black;
+    width: 40px;
+    height: 150px;
+   
+    margin: auto;
+   
+    
+    
+}
+
+.three-button{
+   
+    width: 200px;
+    height: 300px;
+   
+}
+
+.fourwhite{
+    width: 50px;
+    height: 300px;
+    border: solid black 1px;
+}
+
+.black{
+    display: flex;
+    width: 148.5px;
+    height: 150px;
+    border-left: solid black 1px;
+    border-right: solid black 1px;
+   
+}
+
+.twoblackcontainer{
+    width: 120px;
+    display: flex;
+    margin: auto;
+}
+
+.threeblackcontainer{
+    width: 160px;
+    display: flex;
+    margin: auto;
+}
+
+.white{
+    display: flex;
+    width: 150px;
+    height: 150px;
+   
+}
+
+.blacks{
+    display: flex;
+    width: 195px;
+    height: 150px;
+   
+}
+
+.whites{
+    display: flex;
+    width: 200px;
+    height: 150px;
+   
+
+}
+
